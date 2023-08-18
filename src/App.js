@@ -10,7 +10,8 @@ export default function App() {
     <>
 <section className="hero is-primary">
 <div className="hero-body">
-<p className="title" style={{textAlign: 'center'}}>Personal Digital Assistent.</p>
+<p className="title" style={{textAlign: 'center'}}>
+  Personal Digital Assistent.</p>
 </div>
 
 
